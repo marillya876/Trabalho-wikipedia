@@ -1,0 +1,131 @@
+.img{
+    
+    width: 390px;
+    height: 95px;
+
+}
+h1{
+    font-family: 'Montserrat';
+    font-weight: 150;
+    font-size: 40px;
+    text-align: center;
+    
+
+}
+hr{
+
+    width: 300px;
+    height: 4px;
+    left: 775px;
+    background: #000000;
+    border-radius: 100px;
+
+}
+
+.img2{
+    position: absolute;
+    width: 1300px;
+    height: 430.08px;
+    left: calc(50% - 1400px/2);
+    top: 300px;
+    
+    background: url(Wikipedia-logo-v2-en.png);
+
+}
+body{
+    background-color: #f8f6f6;
+}
+strong{
+    color: blue;
+    text-decoration: underline;
+}
+
+
+h2{
+    position: absolute;
+    width: 444px;
+    height: 59px;
+    left: calc(50% - 444px/2);
+    top: 800px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 59px;
+    
+    }
+.linha{
+
+    position: absolute;
+    width: 340px;
+    height: 5.5px;
+    left: 750px;
+    top: 920px;
+
+    background: #000000;
+    border-radius: 100px;
+
+}
+
+.bloco{
+
+    width: 1318px;
+    height: 609px;
+    top: calc(990px + 7px + 30px);
+    left: calc(200px + 30px);
+    margin: 20px;
+    position:absolute;
+    font-weight: 700px;
+    font-size: 24px;
+    line-height: 29px;
+    word-spacing: 0.1rem;
+    letter-spacing: 0.1rem;
+    font-family: 'Montserrat';
+}
+p1{
+    font-family: 'Montserrat';
+    
+    font-weight: bold;
+}
+p2{
+   
+    font-family: 'Montserrat';
+    margin: 1.5rem;
+    font-weight: bold;
+
+}
+p4{
+
+    font-family: 'Montserrat';
+    margin: 1.5rem;
+    font-weight: bold;
+}
+p6{
+   
+    font-family: 'Montserrat';
+    margin: 1.5rem;
+    font-weight: bold;
+}
+p8{
+    
+    font-family: 'Montserrat';
+    margin: 1.5rem;
+    font-weight: bold;
+}
+p10{
+    
+    font-family: 'Montserrat';
+    margin: 1.5rem;
+    font-weight: bold;
+}
+p11{
+    position: absolute;
+    width: 209px;
+    height: 51px;
+    left: calc(50% - 209px/2);
+    top: 803px;
+    font-family: 'Montserrat';
+    text-decoration: underline;
+
+}
